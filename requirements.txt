@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+httpx
+pandas
+db-sqlite3
+scipy
+pybase64
+markdown
+duckdb
